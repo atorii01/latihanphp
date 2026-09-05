@@ -1,0 +1,16 @@
+[
+    {
+        "id": "6a75402166f6c",
+        "username": "peter",
+        "email": "petermaleke09@gmail.com",
+        "password": "$2y$10$3K.fI3mZvHIPNIVblIoLnereqBdxpHcVf2.3\/FYriNjJvk5aTM3x2",
+        "avatar": "default.png"
+    },
+    {
+        "id": "6a75404d6ed74",
+        "username": "atala",
+        "email": "atala@gmail.com",
+        "password": "$2y$10$fa.wmELzI5ET\/0N7vlrrEuu8tAnIMSmR0lK1Ex2s9V4HlAmBLTGDu",
+        "avatar": "default.png"
+    }
+]

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Form Data Siswa</h2>
+    <form action="proses.php" method="POST">
+    <label>Nama Lengkap:</label><br>
+    <input type="text" name="namalengkap" required><br><br>
+    <label>Kelas:</label><br>
+    <input type="text" name="kelas" required><br><br>
+    <label>Umur:</label><br>
+    <input type="number" name="umur" required><br><br>
+    <label>Absensi:</label><br>
+    <input type="number" name="absensi" required><br><br>
+    <label>Pilih Mata Pelajaran:</label><br>
+    <input type="checkbox" name="mataPelajaran[]" value="Pemrograman Web"> Pemrograman Web<br>
+    <input type="checkbox" name="mataPelajaran[]" value="Basis Data"> Basis Data<br>
+    <input type="checkbox" name="mataPelajaran[]" value="INFORMATIKA"> INFORMATIKA<br>
+    <input type="checkbox" name="mataPelajaran[]" value="MULOK"> MULOK<br>
+    <button type="submit">Kirim Data</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+[
+    {
+        "nama": "Peter Maleke",
+        "email": "petermaleke09@gmail.com",
+        "telepon": "082121822780",
+        "tiket": "Regular",
+        "workshop": [
+            "PHP Security",
+            "Laravel Masterclass",
+            "Database Optimization"
+        ]
+    }
+]
